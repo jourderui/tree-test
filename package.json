@@ -1,0 +1,51 @@
+{
+  "name": "tree-viewer",
+  "version": "0.1.0",
+  "description": "Trree viewer test app",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "author": "Michal Marerncik",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.2",
+    "@mui/lab": "^5.0.0-alpha.84",
+    "@mui/material": "^5.8.2",
+    "@types/jest": "^28.1.1",
+    "@types/node": "^17.0.40",
+    "@types/react": "^18.0.11",
+    "@types/react-dom": "^18.0.5",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "^2.1.3",
+    "typescript": "^4.7.3"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "web-vitals": "^2.1.4"
+  }
+}

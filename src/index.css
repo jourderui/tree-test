@@ -7,3 +7,7 @@ body {
 main {
   min-height: 80vh;
 }
+
+.MuiDialogContent-root {
+  padding-top: 10px !important;
+}

@@ -3,7 +3,7 @@ import CssBaseline from "@mui/material/CssBaseline";
 
 // Context Store
 import ContextProvider from "./context";
-
+import "./index.css";
 import Tree from "./Tree";
 import Form from "./Form";
 import { Box, Grid } from "@mui/material";
